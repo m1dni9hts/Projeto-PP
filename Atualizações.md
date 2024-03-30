@@ -7,7 +7,7 @@
 ```
 Vou diminuir o número de telas e deixar o projeto mais simples, de modo que eu acredite ser capaz de entregar
 ```
-Vou dar continuidade na mudança do Figma na aula do dia 25/03, por conta disso ainda não comecei a codar ainda.
+Vou dar continuidade na mudança do Figma na aula do dia 25/03, por conta disso ainda não comecei a codar.
 
 2. Começar a codar (VSCode)
 
